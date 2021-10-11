@@ -1,0 +1,2 @@
+CPP: Cannot compare an int and a float
+Python: Variable is a variable
